@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Siapa yang dikenal sebagai Bapak Sosiologi?",
+    "options": ["Auguste Comte", "Karl Marx", "Max Weber", "Emile Durkheim"],
+    "answer": 0
+  },
+  {
+    "question": "Sosiologi termasuk ke dalam ilmu ...",
+    "options": ["Alam", "Sosial", "Filsafat", "Ekonomi"],
+    "answer": 1
+  },
+  {
+    "question": "Metode penelitian sosiologi yang menggunakan data lapangan disebut ...",
+    "options": ["Observasi", "Eksperimen", "Hipotesis", "Teori"],
+    "answer": 0
+  }
+]
